@@ -7,6 +7,7 @@ SAO will facilitate the orientation and association of DevOps and Security pract
  [Module2 Secure By Design](Module2.pdf)
  [Module3 SAO Build,Deploy,Monitor](Module3.pdf)
  [Module4 Assess Cert](Module4.pdf)
+ 
 https://github.com/aws-sao-partners/sao-workshop-slides/blob/master/Module-1-%20SAO-Introduction%20to%20Security%20Automation%20and%20Orchestration%20for%20Regulated%20Industry.pdf
 
 https://github.com/aws-sao-partners/sao-workshop-slides/blob/master/Module-2-SbD-MTG-031418.pdf
