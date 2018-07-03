@@ -3,10 +3,10 @@ Security Automation and Orchestration (SAO) repository for constraining, trackin
 SAO will facilitate the orientation and association of DevOps and Security practices, changes and coordination of Continuous Integration (CI), Continuous Delivery (CD) and Continuous Risk Treatment (CRT)* of an AWS customer account and/or multiple accounts.  
  <br> 
  
- [Module1 Intro to SAO](Module1.pdf)
- [Module2 Secure By Design](Module2.pdf)
- [Module3 SAO Build,Deploy,Monitor](Module3.pdf)
- [Module4 Assess Cert](Module4.pdf)
+ [Module1 Intro to SAO](Module1.pdf) <br>
+ [Module2 Secure By Design](Module2.pdf) <br>
+ [Module3 SAO Build,Deploy,Monitor](Module3.pdf) <br>
+ [Module4 Assess Cert](Module4.pdf) <br>
  
 https://github.com/aws-sao-partners/sao-workshop-slides/blob/master/Module-1-%20SAO-Introduction%20to%20Security%20Automation%20and%20Orchestration%20for%20Regulated%20Industry.pdf
 
