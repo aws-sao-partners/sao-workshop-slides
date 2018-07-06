@@ -5,5 +5,6 @@ SAO will facilitate the orientation and association of DevOps and Security pract
  
  [Module1 Intro to SAO](Module1.pdf) <br>
  [Module2 Secure By Design](Module2.pdf) <br>
+ [Module2 Secure By Design (EMEA)](Module-2-SbD-MTG-EMEA-062618.pdf)<br>
  [Module3 SAO Build,Deploy,Monitor](Module3.pdf) <br>
  [Module4 Assess Cert](Module4.pdf) <br>
